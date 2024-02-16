@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "img":"./img/menu6.png",
+        "h2":"Cheese Burger",
+        "h3":"Tasty Food",
+        "price":"$12.05"
+    },
+    {
+        "id":2,
+        "img":"./img/corndog.png",
+        "h2":"Corn Dog",
+        "h3":"Tasty Food",
+        "price":"$12.05"
+    },
+    {
+        "id":3,
+        "img":"./img/menu7.png",
+        "h2":"Pizza",
+        "h3":"Tasty Food",
+        "price":"$12.05"
+    }
+]
